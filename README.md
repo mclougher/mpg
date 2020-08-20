@@ -1,1 +1,1 @@
-# mpg
+The following notebook creates a model to estimate MPG of vehicles given the dataset shown below. This was completed as part of my coursework for Johns Hopkins University. Several pieces of code are provided by the instructors, and credit is attributed to them in the notebook.
